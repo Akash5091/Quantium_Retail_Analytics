@@ -30,6 +30,3 @@ This project provides a comprehensive analysis of the chips category within reta
 
 This project delivers valuable insights into retail sales patterns, enabling better decision-making for store management and marketing strategies. By understanding customer behavior and store performance, retailers can enhance their operations and maximize revenue, especially during critical sales periods.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
